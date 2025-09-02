@@ -20,7 +20,7 @@
       "binding": "ANALYTICS",
       "dataset": "sink"
     }
-
+  ],
   "kv_namespaces": [
     {
       "binding": "KV",
